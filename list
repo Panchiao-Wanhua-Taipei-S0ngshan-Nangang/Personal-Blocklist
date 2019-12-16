@@ -1,25 +1,22 @@
-##個人網域白名單
-@@||nctu.me^$important
+## 萬惡臉書白名單
+## @@||graph.facebook.com
+## @@||connect.facebook.net
+## @@||pixel.facebook.com
+## @@||mqtt-mini.facebook.com
+## @@||staticxx.facebook.com
+## @@||b-graph.facebook.com
+## @@||lookaside.facebook.com
+## @@||b-api.facebook.com
+## @@||mqtt-p4.facebook.com
+## @@||z-p3-scontent.xx.fbcdn.net
+## @@||z-p3-api.facebook.com
+## @@||b-www.facebook.com
+## @@||z-p3-sonar.fdar1-1.fna.fbcdn.net
 
-##萬惡臉書白名單
-@@||graph.facebook.com
-@@||connect.facebook.net
-@@||pixel.facebook.com
-@@||mqtt-mini.facebook.com
-@@||staticxx.facebook.com
-@@||b-graph.facebook.com
-@@||lookaside.facebook.com
-@@||b-api.facebook.com
-@@||mqtt-p4.facebook.com
-@@||z-p3-scontent.xx.fbcdn.net
-@@||z-p3-api.facebook.com
-@@||b-www.facebook.com
-@@||z-p3-sonar.fdar1-1.fna.fbcdn.net
-
-##福爾摩沙自由白名單
+## 福爾摩沙自由白名單
 @@||ntdtv.com^
 
-##若有似無黑名單
+## 若有似無黑名單
 ||itadapi.ithome.com.tw^
 ||falcon-creative-ak.pixfs.net^
 ||pixoctopus.pixnet.net^
