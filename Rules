@@ -1,12 +1,12 @@
 #### 2020-01-05-A
 
 ## 系統需求白名單
-@@||webredirect.org
+@@||webredirect.org^
 
 ## 福爾摩沙白名單
 @@||ntdtv.com^
-@@||avgle.com
-@@||cdn-content.ampproject.org
+@@||avgle.com^
+@@||cdn-content.ampproject.org^
 
 ## 若有似無黑名單
 ||itadapi.ithome.com.tw^
