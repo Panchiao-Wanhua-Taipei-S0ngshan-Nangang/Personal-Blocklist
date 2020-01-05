@@ -1,0 +1,12 @@
+## 系統需求白名單
+@@||webredirect.org^$important
+
+## 福爾摩沙白名單
+@@||ntdtv.com^
+@@||avgle.com^$important
+@@||cdn-content.ampproject.org^$important
+
+## 若有似無黑名單
+||itadapi.ithome.com.tw^
+||falcon-creative-ak.pixfs.net^
+||pixoctopus.pixnet.net^
