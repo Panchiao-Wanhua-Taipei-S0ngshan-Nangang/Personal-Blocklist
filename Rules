@@ -1,9 +1,12 @@
-#### 2020-01-27-A
+#### 2020-02-04-A
 
 ## 系統白名單
 @@||nctu.me^
 @@||dynu.net^
 @@||webredirect.org^
+
+## 反偵測黑名單
+||dnsexp.xyz^
 
 ## CNAME白名單
 @@||fonts.gstatic.com^
@@ -29,6 +32,3 @@
 ||Buzzhand.com^
 ||fun01.cc^
 ||bomb01.com^
-
-## 反偵測黑名單
-||dnsexp.xyz^
