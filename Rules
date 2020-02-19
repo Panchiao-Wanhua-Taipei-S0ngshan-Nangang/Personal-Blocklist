@@ -1,22 +1,27 @@
-#### 2020-02-04-B
+#### 2020-02-19-A
 
 ## 系統白名單
 @@||nctu.me^
 @@||dynu.net^
 @@||webredirect.org^
 
-## 反偵測黑名單
-||dnsexp.xyz^
+## 誤擋白名單
+@@||upload.cc^
 
-## CNAME白名單
+## CNAME 白名單
 @@||fonts.gstatic.com^
 @@||tw.answers.yahoo.com^
 @@||login.live.com^
-@@||cdn-content.ampproject.org^
+! @@||cdn-content.ampproject.org^ 似乎已經移除
 
 ## 福爾摩沙白名單
 @@||ntdtv.com^
 @@||avgle.com^
+
+## 防止iDevice更新黑名單
+@@||mesu.apple.com^
+@@||updates-http.cdn-apple.com^
+@@||gdmf.apple.com^
 
 ## 若有似無黑名單
 ||itadapi.ithome.com.tw^
